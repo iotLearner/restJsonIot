@@ -7,10 +7,6 @@
     {
       "id": 2,
       "title":"Systolic Pressure"
-    },
-    {
-      "id": 3,
-      "title": "Post 3"
     }
   ],
   "comments": [
@@ -22,8 +18,5 @@
       "id": 2,
       "body": "Critical",
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
