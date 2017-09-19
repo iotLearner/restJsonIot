@@ -2,21 +2,30 @@
   "posts": [
     {
       "id": 1,
-      "title":"Dialostic Pressure"
+      "title": "Post 1"
     },
     {
       "id": 2,
-      "title":"Systolic Pressure"
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
     }
   ],
   "comments": [
     {
       "id": 1,
-      "body": "within safe limits",
+      "body": "some comment",
+      "postId": 1
     },
     {
       "id": 2,
-      "body": "Critical",
+      "body": "some comment",
+      "postId": 1
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
