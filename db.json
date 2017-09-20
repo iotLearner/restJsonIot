@@ -14,12 +14,10 @@
     {
       "id": 1,
       "body": "Within safe limits",
-      "postId": 1
     },
     {
       "id": 2,
       "body": "Critical",
-      "postId": 1
     }
   ]
   }
